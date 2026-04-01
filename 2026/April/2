@@ -1,0 +1,8 @@
+# DSA
+  - Solved Daily Temperatures: https://neetcode.io/problems/daily-temperatures/question
+    Simple monotonic stack problem. Next greater element standard problem
+
+# OSTEP
+  - Read Chapter 16. Learnt about Segmentation of a process's address space. Read about base and bound array registers that a CPU keeps 
+    to maintain account of various segments (mainly code, heap and stack). 
+

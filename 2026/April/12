@@ -1,0 +1,9 @@
+## DSA
+  - Gave a CF virtual contest today. Solved 2 problems (A and B). Not to good, but still a start.
+  - https://codeforces.com/contest/2217/problem/A : Simple Parity Problem
+  - https://codeforces.com/contest/2217/problem/B : Another simple problem involving finding the number of times the value changed in a binary array.
+  - Will try to upsolve C and D tomorrow, and also do 2 NEETCODE problems
+
+## OSTEP
+  - Read about TLBs today and difference between hardware driven and software driven TLB cache miss strategy. Also learnt what heppens to a TLB when a context switch happens.
+  - Completed chapter 19 of OSTEP. Started chapter 20 but read only 2-3 pages. will try to finish the memory virtualisation section tomorrow.
